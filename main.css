@@ -15,7 +15,7 @@ h1, h2, h3 {
 	font-family: 'Rakkas', cursive;
 }
 
-aside {float: left;
+aside {float: left;width: 30%;
 	
 }
 
@@ -31,11 +31,11 @@ img {
 	max-width: 75%;
 }
 
-main {float: left;
+main {float: left;width: 50%;
 
 }
 
-nav {float: left;
+nav {float: left;width: 10%;
 
 }
 
